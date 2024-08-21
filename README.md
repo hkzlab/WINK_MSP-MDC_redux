@@ -10,8 +10,10 @@ By using this project You will agree that I cannot be held responsible if it wil
 
 Wink is a 1985, breakout-style, arcade game by Midcoin.
 
-The board uses off-the-shelf components for everything, but a bunch of circuitry, the MSP-MDC module, that acts both as CPU and as security, is made with 3 sandwiched sandwiched PCBs encased in epoxy.
-If something within this board dies, the whole board becomes useless.
+The board uses off-the-shelf components for everything, but a bunch of circuitry, called the MSP-MDC module, that acts both as CPU and as security, is placed on 3 sandwiched sandwiched PCBs encased in epoxy.
+This was made to thwart bootleggers, but. if something within this board dies, the whole game becomes useless.
+
+I painstakingly pulled the boards apart and chipped away the epoxy to recover the board schematic.
 
 This project contains files to build a compatible board that can be plugged in place of the original MSP-MDC.
 
@@ -20,6 +22,8 @@ This project contains files to build a compatible board that can be plugged in p
 ## Hardware
 
 The board was designed with [KiCad](https://kicad.org/) EDA.
+
+You can order boards directly from [PCBWay](https://www.pcbway.com/project/shareproject/MSP_MDC_Redux_c4e8a048.html)!
 
 ### Bill of Materials
 
