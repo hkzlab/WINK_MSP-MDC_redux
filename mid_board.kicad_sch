@@ -7219,38 +7219,16 @@
 		)
 		(uuid "fe732480-89e9-46bb-a3e2-6822191a2757")
 	)
-	(text "The '245 here is NOT bypassed,\nand the pin ordering of data\nlines is different"
+	(text "The original board used\n74LS83s, that are almost\nimpossible to find.\n\nReplaced with functionally \nsimilar '283."
 		(exclude_from_sim no)
-		(at 127 106.68 0)
+		(at 194.31 55.372 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "af3e62b3-e2bc-4cd5-b4dc-d57783fbf58e")
-	)
-	(text "Some input pins are swapped here,\nstill functionally identical"
-		(exclude_from_sim no)
-		(at 44.45 151.892 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b11b46ef-f55b-4d03-a1bf-893ce5daf156")
-	)
-	(text "NOTE:\nFound the connection\nbetween U8-6 and U7-4 broken.\n"
-		(exclude_from_sim no)
-		(at 193.548 61.468 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ff249ba0-1194-41ed-ba41-04bb3886cbd5")
+		(uuid "eb99133d-a10e-4254-86af-7c9e703ce2be")
 	)
 	(label "BUF_D1"
 		(at 147.32 142.24 180)

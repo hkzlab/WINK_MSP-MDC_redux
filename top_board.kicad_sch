@@ -7035,28 +7035,6 @@
 		)
 		(uuid "ff72dc4a-42db-4abc-9761-104b4ff77c1f")
 	)
-	(text "The order of these 3 gates\nare inverted in the other\nschematic, but the structure\nis functionally identical."
-		(exclude_from_sim no)
-		(at 117.602 185.166 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c4f45626-74da-40c2-b769-3f8d801e25fe")
-	)
-	(text "Here we use a 'LS00 in\nplace of an 'LS04"
-		(exclude_from_sim no)
-		(at 212.852 64.262 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "eda9ec6f-b87b-4b71-a099-81ade2bb5975")
-	)
 	(label "A1"
 		(at 44.45 97.79 0)
 		(fields_autoplaced yes)
